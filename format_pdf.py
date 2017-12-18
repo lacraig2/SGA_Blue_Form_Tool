@@ -1,3 +1,7 @@
+# LUKE CRAIG
+# 07/18/2017
+# MIT LICENSE
+
 import io
 import pdfrw
 from reportlab.pdfgen import canvas
